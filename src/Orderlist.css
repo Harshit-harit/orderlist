@@ -1,0 +1,35 @@
+.button1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: right;
+    float: right;
+    display: inline;
+    text-decoration: none;
+    font-size: 16px;
+   
+  }
+  h1{
+    background-color: #e4ebe4; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 16px;
+
+  }
+  .Table, th, td{
+   
+     
+      padding-top: 100px;
+    }
+
+    th, td {
+      padding: 15px;
+      text-align: left;
+    }
+    
+  
